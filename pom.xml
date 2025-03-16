@@ -85,6 +85,7 @@
       <groupId>org.postgresql</groupId>
       <artifactId>postgresql</artifactId>
       <scope>runtime</scope>
+      <version>42.2.28.jre7</version>
     </dependency>
 
     <!-- Caching -->
